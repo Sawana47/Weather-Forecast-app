@@ -1,0 +1,2 @@
+# Weathering — Hyperlocal Forecast (Glass UI)
+Vite + React app. Requires OPENWEATHER_API_KEY environment variable on Vercel.
